@@ -212,5 +212,5 @@ a:hover{
   border-radius: var(--radius);
   box-shadow: 0 6px 18px rgba(0,0,0,.08);
   margin-bottom: 30px;
-  color: var(--text-dark);   /* 👈 ESTO SOLUCIONA EL TEXTO */
+  color: var(--text-dark);   /* ESTO SOLUCIONA EL TEXTO */
 }
