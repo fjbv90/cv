@@ -205,3 +205,12 @@ a:hover{
   align-items: center;   /* centra horizontalmente */
   gap: 25px;
 }
+
+.card{
+  background: var(--white);
+  padding: 25px;
+  border-radius: var(--radius);
+  box-shadow: 0 6px 18px rgba(0,0,0,.08);
+  margin-bottom: 30px;
+  color: var(--text-dark);   /* 👈 ESTO SOLUCIONA EL TEXTO */
+}
